@@ -1,0 +1,9 @@
+e:\pier-olivier\documents\visual studio 2015\Projects\DominantColorsForm\DominantColorsForm\bin\Debug\DominantColorsForm.exe.config
+e:\pier-olivier\documents\visual studio 2015\Projects\DominantColorsForm\DominantColorsForm\bin\Debug\DominantColorsForm.exe
+e:\pier-olivier\documents\visual studio 2015\Projects\DominantColorsForm\DominantColorsForm\bin\Debug\DominantColorsForm.pdb
+e:\pier-olivier\documents\visual studio 2015\Projects\DominantColorsForm\DominantColorsForm\obj\Debug\DominantColorsForm.csprojResolveAssemblyReference.cache
+e:\pier-olivier\documents\visual studio 2015\Projects\DominantColorsForm\DominantColorsForm\obj\Debug\DominantColorsForm.Form1.resources
+e:\pier-olivier\documents\visual studio 2015\Projects\DominantColorsForm\DominantColorsForm\obj\Debug\DominantColorsForm.Properties.Resources.resources
+e:\pier-olivier\documents\visual studio 2015\Projects\DominantColorsForm\DominantColorsForm\obj\Debug\DominantColorsForm.csproj.GenerateResource.Cache
+e:\pier-olivier\documents\visual studio 2015\Projects\DominantColorsForm\DominantColorsForm\obj\Debug\DominantColorsForm.exe
+e:\pier-olivier\documents\visual studio 2015\Projects\DominantColorsForm\DominantColorsForm\obj\Debug\DominantColorsForm.pdb
